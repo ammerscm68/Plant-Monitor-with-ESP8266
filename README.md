@@ -1,5 +1,5 @@
 # Plant-Monitor-with-ESP8266
-A Plant Monitor with ESP8266 and Capacitive Soil Moisture Sensor
+A Plant Monitor with ESP8266 and Capacitive Soil Moisture Sensor and MQTT Client
 
 # Hardware: 
 RGB LED  --> Green = GPIO 2 (D4) / Blue = GPIO 0 (D3) / Red = GPIO 4 (D2) <br>
