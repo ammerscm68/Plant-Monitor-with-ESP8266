@@ -7,7 +7,15 @@ ESP8266 (Wemos D1 Mini) <br>
 Capacitive Soil Moisture Sensor V1.2 an A0 Pin from then D1 Mini <br>
 
 # Manual RGB-LED Indikator
+When the sensor is started for the first time, the "Captive Portal" is started and the LED lights up "BLUE"
+After entering the data, the sensor restarts and the RGB LED lights up as follows:
 
+1. Checking the RGB LED --- All three colors flash three times (Red/Blue/Green) <br>
+2. Establishing WiFi connection RGB LED blinks BLUE/GREEN <br>
+3. If the WLAN connection is successful and everything is loaded, the RGB LED lights up green --- otherwise RED <br>
+4. With each measurement, the RGB LED flashes Green once briefly. <br>
+
+Note: If the WLAN connection cannot be established for about 15 minutes, the "Captive Portal" will be started!
 
 # Software:
 A "captive portal" is created when the software is started for the first time. (Name = Plant-Monitor) <br>
