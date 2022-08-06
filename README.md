@@ -24,4 +24,8 @@ Make the appropriate entries here. A website can be opened via the assigned IP a
 Should it ever be necessary to change the WLAN access data and other parameters, this can be <br>
 done by a RESET on the website. If this is not possible then simply wait (when WLAN is switched off!) <br>
 until the LED lights up only blue and the "Captive Portal" starts again. <br>
-The new data can now be entered.
+The new data can now be entered.<br>
+<br>
+New from version 1.1.2: <br>
+The sensor now also works without MQTT (do not specify the MQTT host in the captive portal) <br>
+The sensor can now also be calibrated during operation.
