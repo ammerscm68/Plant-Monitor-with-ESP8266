@@ -26,6 +26,10 @@ done by a RESET on the website. If this is not possible then simply wait (when W
 until the LED lights up only blue and the "Captive Portal" starts again. <br>
 The new data can now be entered.<br>
 <br>
+New from version 1.1.5: <br>
+After switching on the sensor, a measurement is taken every 15 seconds to check the values. (Number of measurements: 20 - start mode)  <br>
+After these 20 measurements, the measurement takes place again at the set interval.  <br>
+
 New from version 1.1.2: <br>
 The sensor now also works without MQTT (do not specify the MQTT host in the captive portal) <br>
 The sensor can now also be calibrated during operation.
