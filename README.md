@@ -29,7 +29,7 @@ The new data can now be entered.<br>
 New from version 1.1.8: <br>
 Improved webinterface <br>
 bug fix <br>
-The webinterface can now be reached with the DNS name. The DNS name is equal to the name of the sensor. (Example : http://kittchenplant.local)
+The webinterface can now be reached with the DNS name. The DNS name is equal to the name of the sensor. (Example : http://kittchenplant.local) <br>
 <br>
 New from version 1.1.5: <br>
 After switching on the sensor, a measurement is taken every 15 seconds to check the values. (Number of measurements: 20 - start mode)  <br>
