@@ -1,5 +1,5 @@
-# Plant-Monitor-with-ESP8266
-A Plant Monitor with ESP8266 and Capacitive Soil Moisture Sensor and MQTT Client
+# Plant-Monitor-with-ESP8266 (MQTT-Broker Version)
+A Plant Monitor with ESP8266 and Capacitive Soil Moisture Sensor and MQTT Broker
 
 # Hardware: 
 RGB LED  --> Green = GPIO 2 (D4) / Blue = GPIO 0 (D3) / Red = GPIO 4 (D2) <br>
@@ -25,6 +25,11 @@ Should it ever be necessary to change the WLAN access data and other parameters,
 done by a RESET on the website. If this is not possible then simply wait (when WLAN is switched off!) <br>
 until the LED lights up only blue and the "Captive Portal" starts again. <br>
 The new data can now be entered.<br>
+<br>
+New from version 1.1.8: <br>
+Improved webinterface <br>
+bug fix <br>
+
 <br>
 New from version 1.1.5: <br>
 After switching on the sensor, a measurement is taken every 15 seconds to check the values. (Number of measurements: 20 - start mode)  <br>
