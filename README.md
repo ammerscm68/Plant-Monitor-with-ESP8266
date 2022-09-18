@@ -26,6 +26,9 @@ done by a RESET on the website. If this is not possible then simply wait (when W
 until the LED lights up only blue and the "Captive Portal" starts again. <br>
 The new data can now be entered.<br>
 <br>
+New from version 1.2.8: 
+Now with Arduino OTA. 
+Sketch updates without a USB cable over the network
 New from version 1.1.8: <br>
 Improved webinterface <br>
 bug fix <br>
