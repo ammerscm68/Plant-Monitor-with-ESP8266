@@ -29,6 +29,7 @@ The new data can now be entered.<br>
 New from version 1.2.8: <br> 
 Now with Arduino OTA. <br>
 Sketch updates without a USB cable over the network <br>
+<br>
 New from version 1.1.8: <br>
 Improved webinterface <br>
 bug fix <br>
@@ -38,7 +39,7 @@ The webinterface can now be reached with the DNS name. The DNS name is equal to 
 New from version 1.1.5: <br>
 After switching on the sensor, a measurement is taken every 15 seconds to check the values. (Number of measurements: 20 - start mode)  <br>
 After these 20 measurements, the measurement takes place again at the set interval.  <br>
-
+<br>
 New from version 1.1.2: <br>
 The sensor now also works without MQTT (do not specify the MQTT host in the captive portal) <br>
 The sensor can now also be calibrated during operation.
