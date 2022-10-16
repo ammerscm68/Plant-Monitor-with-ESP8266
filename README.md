@@ -26,6 +26,10 @@ done by a RESET on the website. If this is not possible then simply wait (when W
 until the LED lights up only blue and the "Captive Portal" starts again. <br>
 The new data can now be entered.<br>
 <br>
+New from version 1.4.0: <br>
+new Captive Portal (WiFi-Manager)<br>
+bug fix<br>
+<br>
 New from version 1.2.8: <br> 
 Now with Arduino OTA. <br>
 Sketch updates without a USB cable over the network <br>
